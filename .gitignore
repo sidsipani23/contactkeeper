@@ -1,6 +1,7 @@
 node_modules/
-
+client/node_modules
 /client/build
+/config/default.json
 
 /client/build/.env.local
 /client/build/.env.development.local
